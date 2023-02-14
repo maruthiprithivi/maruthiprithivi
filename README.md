@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @maruthiprithivi
 - 👀 I’m interested in tinkering...
 - 🌱 I’m currently learning Graphs and NLP...
-- 💞️ I’m looking to collaborate on early stage ideas around LPG Graphs and/or NLP Apps/Services 
-- 📫 maruthiprithivi@gmail.com
+- 💞️ I’m building Typeless 
+- 📫 maruthi@typeless.io
 
 <!---
 maruthiprithivi/maruthiprithivi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
