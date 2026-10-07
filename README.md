@@ -1,6 +1,6 @@
 <!-- v3 · Signal. Art direction follows The Local Node brand concepts "Signal" and "Relay". Mobbin refs: 1Password developer tools (mobbin.com/sites/sections/98769065-437c-4aec-a6f9-ba422a7f6b59), Mailchimp developer hero (mobbin.com/sites/sections/35fc90ea-349f-44d7-b050-5a857c28adc3) -->
 
-<img src="v3-assets/signal/hero.svg" width="100%" alt="Maruthi Prithivirajan. Builder at Typeless, Singapore. I build data infrastructure, graph systems and AI agents, mostly on ClickHouse and Neo4j.">
+<img src="v3-assets/signal/hero.svg" width="100%" alt="Maruthi Prithivirajan. Builder at Typeless, Singapore. I build data infrastructure, graph systems, AI agents and harnesses for open-weight models, mostly on ClickHouse and Neo4j.">
 
 <br>
 
