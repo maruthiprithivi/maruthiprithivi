@@ -23,6 +23,12 @@
   <img src="v3-assets/signal/label-work-light.svg" width="100%" alt="02 Selected work">
 </picture>
 
+### Building: [Harness Desk](https://github.com/maruthiprithivi/harness-desk)
+
+A local workspace for understanding and improving coding-agent setups. Inspect global and project instructions, explore skills and MCP configuration, then compare supported fresh-session measurements before and after a change.
+
+**Understand → Improve → Verify.** In development, with live macOS checks for several agent adapters. Windows validation and the public package release are in progress.
+
 <p align="center">
   <a href="https://github.com/maruthiprithivi/break-free"><img src="v3-assets/signal/tile-break-free.svg" width="49%" alt="break-free: The frontier model leads, other models execute."></a>
   <a href="https://github.com/maruthiprithivi/agent_zero"><img src="v3-assets/signal/tile-agent_zero.svg" width="49%" alt="agent_zero: A ClickHouse MCP server."></a>
